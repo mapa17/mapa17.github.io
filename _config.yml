@@ -4,16 +4,15 @@
 #theme: minimal-mistakes-jekyll
 remote_theme: minimal-mistakes-jekyll
 
-name                     : &name "Manuel Pasieka"
-description              : &description "Home sweet home"
-url                      : https://mapa17.github.io
+#name                     : &name "Manuel Pasieka"
+#description              : &description "Home sweet home"
+#url                      : https://mapa17.github.io
 
- Site Author
-author:
-  name             : "Manuel Pasieka"
-  avatar           : "imgs/profile.png"
-  bio              : "Software Developer and Data Scientist"
-  email            : "manuel.pasieka@protonmail.ch"
-  uri              : "http://www.movescount.com/es/members/member1767754-Patata_Blanca"
-  github           : "mapa17"
-  orcid            : "https://orcid.org/0000-0002-4906-7981"
+#author:
+#  name             : "Manuel Pasieka"
+#  avatar           : "imgs/profile.png"
+#  bio              : "Software Developer and Data Scientist"
+#  email            : "manuel.pasieka@protonmail.ch"
+#  uri              : "http://www.movescount.com/es/members/member1767754-Patata_Blanca"
+#  github           : "mapa17"
+#  orcid            : "https://orcid.org/0000-0002-4906-7981"
