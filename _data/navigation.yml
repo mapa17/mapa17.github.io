@@ -1,0 +1,24 @@
+# main links
+main:
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Some stuff"
+    url: /stuff/
+  #- title: "Blog"
+  #  url: /posts/
+  - title: "About Me"
+    url: /aboutme/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+special:
+  - title: "Sidebar Title"
+    image: "/assets/img/configfylogo.png"
+    image_alt: "image"
+    text: "Sidebar is defined in _data and has to be included per Front matter"
