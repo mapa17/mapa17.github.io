@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Some other header ....
 
 You can use the [editor on GitHub](https://github.com/mapa17/mapa17.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
