@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Blog"
+    url: /blog/
+  - title: "Projects"
+    url: /projects/
+  - title: "About Me"
+    url: /aboutme/
+
+special:
+  - title: "My sidebar"
+    image: "/assets/img/configfylogo.png"
+    image_alt: "image"
+    text: "Sidebar is defined in _data and has to be included per Front matter"

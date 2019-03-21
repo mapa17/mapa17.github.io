@@ -22,11 +22,14 @@ title_separator          : "-"
 name                     : "Manuel Pasieka"
 description              : "Blog/Profile/Advertisement"
 url                      : "https://mapa17.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes"
+#baseurl                  : "/minimal-mistakes"
+baseurl                  : ""
 repository               : "mapa17/mapa17.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # Put some logo on the top left corner "/assets/images/logo.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+search                   : true
+words_per_minute         : 100
 
 # Analytics
 analytics:
@@ -36,14 +39,21 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
+# Collections
+collections:
+  projects:
+    output: true
+
+
 # Site Author
 author:
   name             : "Manuel Pasieka"
   avatar           : "/assets/img/profile.png"
-  bio              : "Software and Data Science Engineer"
-  location         : "Europe"
+  bio              : "Software developemnt and practical machine learning"
+  #location         : "Europe"
   email            : "manuel.pasieka@protonmail.ch"
-  uri              : "http://www.movescount.com/es/members/member1767754-Patata_Blanca"
+  #uri              : "http://www.movescount.com/es/members/member1767754-Patata_Blanca"
+  uri              : "mapa17.github.io"
   github           : "mapa17"
   orcid            : "https://orcid.org/0000-0002-4906-7981"
   home             : # null (default), "absolute or relative url to link to author home"
@@ -53,7 +63,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
   gitlab           :
   google_plus      :
   keybase          :
@@ -140,6 +149,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -148,7 +158,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 # Archives
 #  Type
@@ -161,23 +170,21 @@ whitelist:
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
-  type: liquid
+  type: jekyll-archives
   path: /categories/
 tag_archive:
-  type: liquid
+  type: jekyll-archives
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -200,10 +207,23 @@ defaults:
       comments: # true
       share: true
       related: true
+
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: "pages"
     values:
       layout: single
       author_profile: true
+
+  # _projects
+  - scope:
+      path: "" # Anywhere in the projec
+      type: "projects" # Only affecting posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      #comments: true
+      #share: true
+      #related: true

@@ -1,6 +1,11 @@
 var store = [{
-        "title": "First Post",
-        "excerpt":"First Post! ","categories": ["Some Category"],
-        "tags": ["Blog","Stuff"],
-        "url": "http://localhost:4000/some%20category/2018/07/17/first_post.html",
+        "title": "Welcome to Jekyll!",
+        "excerpt":"Welcome Hello world, this is my first Jekyll blog post. I hope you like it! ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/tryit/",
+        "teaser":null},{
+        "title": "Project Alpha",
+        "excerpt":"Project Alpha All horrible ends have inconspicuous beginnings … ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/projects/firstone/",
         "teaser":null}]

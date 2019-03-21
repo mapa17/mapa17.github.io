@@ -1,0 +1,49 @@
+/*!
+ * Minimal Mistakes Jekyll Theme 4.12.0 by Michael Rose
+ * Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+ * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt)
+*/
+
+$type-size-1: 2.0em !default; // ~39.056px
+$type-size-2: 1.5em !default; // ~31.248px
+$type-size-3: 1.0em !default; // ~25.008px
+$type-size-4: 0.8em !default; // ~20px , basic font
+$type-size-5: 0.8em !default; // ~16px
+$type-size-6: 0.8em !default; // ~12px
+$type-size-7: 0.8em !default; // ~11px
+$type-size-8: 0.8em !default; // ~10p
+
+/* Variables */
+@import "minimal-mistakes/variables";
+
+/* Mixins and functions */
+@import "minimal-mistakes/vendor/breakpoint/breakpoint";
+@include breakpoint-set("to ems", true);
+@import "minimal-mistakes/vendor/magnific-popup/magnific-popup"; // Magnific Popup
+@import "minimal-mistakes/vendor/susy/susy";
+@import "minimal-mistakes/mixins";
+
+/* Core CSS */
+@import "minimal-mistakes/reset";
+@import "minimal-mistakes/base";
+@import "minimal-mistakes/forms";
+@import "minimal-mistakes/tables";
+@import "minimal-mistakes/animations";
+
+/* Components */
+@import "minimal-mistakes/buttons";
+@import "minimal-mistakes/notices";
+@import "minimal-mistakes/masthead";
+@import "minimal-mistakes/navigation";
+@import "minimal-mistakes/footer";
+@import "minimal-mistakes/search";
+@import "minimal-mistakes/syntax";
+
+/* Utility classes */
+@import "minimal-mistakes/utilities";
+
+/* Layout specific */
+@import "minimal-mistakes/page";
+@import "minimal-mistakes/archive";
+@import "minimal-mistakes/sidebar";
+@import "minimal-mistakes/print";
