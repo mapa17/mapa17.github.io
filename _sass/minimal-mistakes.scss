@@ -37,7 +37,8 @@ $type-size-8: 0.8em !default; // ~10p
 @import "minimal-mistakes/navigation";
 @import "minimal-mistakes/footer";
 @import "minimal-mistakes/search";
-@import "minimal-mistakes/syntax";
+@import "minimal-mistakes/syntax-highlight-tango";
+/* @import "minimal-mistakes/syntax"; */
 
 /* Utility classes */
 @import "minimal-mistakes/utilities";

@@ -17,7 +17,7 @@ ages (well at around twelve it felt like ages at least) to buy me one.
 Shortly after getting my first computer (AT&T machine with intel i486@100Mhz and 8MB Ram)
 I started to play around with the operating system and the DOS console. There
 was this one game that I wanted to play, but it needed more memory to run than
-my machine head, so I stared to play around with some system commands (memctl???),
+my machine head, so I stared to play around with some system commands (memset???),
 and even remember to have been able to run it once, but in the processes destroyed
 the system more than once. Maybe my parents at some point decided that they had
 payed enough for some computer repair service guy to come and fix it, or was it
@@ -28,7 +28,7 @@ The most important single event for my future career and decision to really go
 into computer science and become a software developer, happened a few years later thought.
 I guess I was around 14 or 15 when a good friend of mine got as a present a programming book for kids.
 
-![C++ for Kids](/assets/img/cpp4kids.jpg "My first programming book")
+![C++ for Kids](/assets/img/cpp4kids.jpg "My first programming book"){: .align-center}
 
 I dont know how it ended up with me, but soon after I started to write my first
 C programs in Borland C++ compiler (for DOS, for some reason I can remember ...)
