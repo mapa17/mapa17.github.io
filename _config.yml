@@ -53,7 +53,7 @@ author:
   #location         : "Europe"
   email            : "manuel.pasieka@protonmail.ch"
   #uri              : "http://www.movescount.com/es/members/member1767754-Patata_Blanca"
-  uri              : "mapa17.github.io"
+  uri              : ""
   github           : "mapa17"
   orcid            : "https://orcid.org/0000-0002-4906-7981"
   home             : # null (default), "absolute or relative url to link to author home"
