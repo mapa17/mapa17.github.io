@@ -58,13 +58,43 @@ Jean-Jacques Rousseau is the founding figure of **Romanticism** that at its core
 This discourse between Rationalism and Romanticism, combining reason and spirituality are at the hearth of the enlightenment and should be inspiration to us for our own times and the future ahead.
 
 ## III: Technology
-Not good or bad, but a tool, and neither its benefits nor its deficiencies are felt equally by everyone.
+Postman has written several critics of the miss use of modern technologies and media (television, internet, and would he write today most probably mobil phones).
+It is no surprise that technology and the internet in particular is deemed as a bad influence on mankind and its future.
+
+Taking a step back he claims, and rightly so, that technology is neither intrinsically good nor bad, but foremost a tool, and while new tools can bring new benefits and powers, they can cause destruction and pain. With all new tools its therefore important to ask who is going to enjoy the benefits, and who is going to pay the bill and suffer the pain that technological revolutions bring about.
 
 ## IV & VIII: Language - Newspapers and civil discourse
+The enlightenment is not only a time of scientific revolution, but as well as a revolution in language. Its at the end of the 17th century that the vernacular languages become the norm in which scientific and popular literature is written. The time when philosophers and scientists changed their style and writing from latin with a focus on form to their local vernacular with a focus on ease of understanding and clear writing.
 
-## VI: Narrative - 
-p101
-The human mind needs a narrative to give purpose and order to life. Narratives are constructed and fluctuate throughout history. They are the result of not a single person or event, and are in constant flux.
+A new form of civil discourse is developed in the shape of newspapers that are created in the hundreds in every nation, and the opening of saloons and coffee shops that are used by the public to exchange news, hold discussion and relate to the world.
+
+Different than today and believing Postman, less prominent in the future a single news article could reach significant parts of a nation, and induce discussions through all levels of society.
+
+Will the future have such platforms of civil discourse? Will we still see individual articles that grab the attention and the hearts of a nation? How will a public discourse look like if there is no common set of references and narratives that people can relate to?
+
+Postman claims that technology and the internet in particular although in theory capable to connect people and encourage communication will produce the reverse and isolate people more than bringing them together. If so, he claims than Democracy by itself is at stack, as public discourse stands at the hearth of Democracy, and the internet is creating a fractured public that has no common ground.
+
+## VI: Narrative - Shared culture, purpose and vision
+I specially enjoyed this chapter, reminding me of Jordan Peterson with its focus on Narrative as the backdrop and the context of our life and society as a whole.
+
+A nations narrative has been growing in a natural manner over centuries and millennia, describing what life is like and what it is about. It is the corpus of stories that make up the cultural basis of a nation, and Postman sees national narratives in wester world dying out. He claims that people don't know their national narratives anymore; how could it be otherwise, because of doing to little reading. Postman claims that people are missing shared cultural context and references, that could serve to keep national narratives alive and keep them evolving.
+
+The result is confusion and the lack of vision as a nation and in the lives of all its citizens. Like a ship without a captain on open sea, looking in vain for a coast line or a light tower to orientate and direct itself.
+
+
+## VII & IV: Children & Education
+ Postman claims that childhood as he have came to know it is endangered because of children having access to an unfiltered view of the world through modern television and the internet. Such an unfiltered view would rob them of their innocent perspective on life and the world, effectively destroying the protected time and space that we call childhood.
+
+The book ends with a discussion about the role and goal of education, which for Postman lies in the creation of a skeptical mind. Exactly that, learning to be skeptical about tradition and the unreflected life is what the philosophers of the enlightenment brought to the table, and following Postman is needed to go forward into the future.
+
+# Conclusion
+Is he right? Is Postman correct in believing that people are less reflective today than they have been in the 18th century, and that reading about philosophers thoughts and discourses would teach us a mindset that would serve us good in solving the problems of the 21th century?
+
+I believe that we need platforms that enable the coordination and discourse of different interest groups on a national and global level. The 21th century will surly provide complex challenges that cannot, or better, should not be solved by a small circle of intellectual elite. 
+
+Democracy as it has been developed in the 18th century might now be the best way to govern the nation states or a constellation of states of the future, and therefore we should not bound future generations to retain it and its key elements, like public newspapers.
+
+I think it should be our goal to develop societies that support diverse forms of living and thinking within a common structure that ensures the protection of the weakest elements of society and balances person flourishing and equality of opportunity.
 
 # Quotes
 * Henry David Thoreu: *All our inventions are but improved means to an unimproved end.*
