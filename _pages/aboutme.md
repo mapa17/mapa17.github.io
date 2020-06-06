@@ -28,7 +28,7 @@ The most important single event for my future career and decision to really go
 into computer science and become a software developer, happened a few years later thought.
 I guess I was around 14 or 15 when a good friend of mine got as a present a programming book for kids.
 
-![C++ for Kids](/assets/img/cpp4kids.jpg "My first programming book"){: .align-center}
+![C++ for Kids](/assets/img/books/cpp4kids.jpg "My first programming book"){: .align-center}
 
 I dont know how it ended up with me, but soon after I started to write my first
 C programs in Borland C++ compiler (for DOS, for some reason I can remember ...)
