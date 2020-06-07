@@ -4,7 +4,7 @@ tags:
   - Book
 ---
 
-![Neil Postman - Building a Bridge to the 18th century](/assets/img/books/NP_BridgeTo18thCentury.jpg "My first programming book"){: .align-center}
+![Neil Postman - Building a Bridge to the 18th century](/assets/img/books/NP_BridgeTo18thCentury.jpg "Cover"){: .align-center}
 
 # Prelude
 I had this book lying around for a long time, and have long forgotten why I bought it in the first place. I can remember vaguely to have read another work by Postman, maybe [Amusing ourselves to death](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death)? but if so I must have lost the book or have completely forgotten about it.
