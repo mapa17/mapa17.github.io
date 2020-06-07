@@ -48,8 +48,8 @@ collections:
 # Site Author
 author:
   name             : "Manuel Pasieka"
-  avatar           : "/assets/img/profile.png"
-  bio              : "Software developemnt and practical machine learning"
+  avatar           : "/assets/img/profile.jpg"
+  bio              : "Software development and practical machine learning"
   #location         : "Europe"
   email            : "manuel.pasieka@protonmail.ch"
   #uri              : "http://www.movescount.com/es/members/member1767754-Patata_Blanca"

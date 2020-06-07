@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-excerpt: "some start it is"
+excerpt: "Homepage of Manuel Pasieka"
 
 #sidebar:
 # nav: "special"
@@ -8,4 +8,4 @@ author_profile: true
 ---
 Hello,
 
-welcome to my personal web page where I write about my projects and interests.
+welcome to my personal web page where I write about my projects and interests with varying regularity and without guarantee for quality nor taste.
