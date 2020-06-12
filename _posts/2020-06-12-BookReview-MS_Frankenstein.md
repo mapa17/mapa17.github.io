@@ -23,7 +23,7 @@ Many years later, between ice and snow in the norths of russia, the hunt comes t
 
 
 # Thoughts and Conclusion
-The novel was published in 1818 and in many ways discusses the dangers of scientific progress. Exactly this believe and notion of progress, is what is discussed in [Neil Postmanns - Building a Bridge ot the 18th century](./BookReview-NP_Building_a_Bridge_to_the_18th_century/) that I reviewed recently. I wonder to which extend this concept of progress is part of the problem; to which extend continuos improvement as an obligation, is driving the use of technologie and research into self-destruction. Frankenstein is obsessed with exploring new frontiers, of being the creator of a new species, and to advance human knowledge at any cost.
+The novel was published in 1818 and in many ways discusses the dangers of scientific progress. Exactly this believe and notion of progress, is what is discussed in [Neil Postmanns - Building a Bridge ot the 18th century](../BookReview-NP_Building_a_Bridge_to_the_18th_century/) that I reviewed recently. I wonder to which extend this concept of progress is part of the problem; to which extend continuos improvement as an obligation, is driving the use of technologie and research into self-destruction. Frankenstein is obsessed with exploring new frontiers, of being the creator of a new species, and to advance human knowledge at any cost.
 
 What can we learn from Frankensteins fate? Could he have changed the outcome of his story, by being more cautious, by being less secret about this work, or was he doomed from the beginning? Was there something wicked about his endeavour, or was it the sheer the lack of luck?
 
