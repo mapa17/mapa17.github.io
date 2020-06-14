@@ -1,7 +1,7 @@
 ---
 #layout: page
 permalink: /projects/
-title: "A place for my projects"
+title: "Stuff I was working on"
 excerpt: "All kind of different personal projects"
 #toc: true
 
@@ -15,12 +15,11 @@ author_profile: false
 
 {% for project in site.projects %}
 <h2>
-    Project:
     <a href="{{ project.url }}">
     {{ project.title }}
     </a>
-    {{ project.excerpt }}
 </h2>
+: {{ project.excerpt }}
 {% comment %} <p>{{ project.content | markdownify }}</p> {%endcomment%}
 {% endfor %}
 

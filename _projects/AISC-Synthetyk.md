@@ -1,6 +1,6 @@
 ---
 title: "AISC: Generative Adversarial Networks: From Theory to Deployment"
-excerpt: "As part of the capstone project for this GAN workshop, we developed and deployed a service to generate synthetic medical images."
+excerpt: "A service to generate synthetic medical images"
 #layout: "projects"
 ---
 
