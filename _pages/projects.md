@@ -11,26 +11,12 @@ author_profile: false
 # nav: "special"
 ---
 
-# Projects
-
 {% for project in site.projects %}
 <h2>
     <a href="{{ project.url }}">
     {{ project.title }}
     </a>
 </h2>
-: {{ project.excerpt }}
+{{ project.excerpt }}
 {% comment %} <p>{{ project.content | markdownify }}</p> {%endcomment%}
 {% endfor %}
-
-
-Some code 
-
-``` python
-def function(foo, var):
-    print('You can do it!')
-var = 13
-#asi tambien
-def blaaa(oki):
-    pass
-```
