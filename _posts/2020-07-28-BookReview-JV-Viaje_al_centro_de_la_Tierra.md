@@ -25,6 +25,7 @@ Como en ahora todas las historias de aventura de Julio Verne, hay tres personaje
 Un personaje de ‘gentleman’ o una persona de autoridad que comienza un viaje de aventura. Un ayudante que acompaña el explorador a pesar de dudas y miedo, y que nos sirve como narrador de la historia. El último personaje es una persona ‘simple’ que es de gran ayuda y de gran valor, pero sin intenciones propias ni pensamientos.
 
 *	**El profesor Otto Lindenbrock** <br>Es un profesor de mineralogía famoso y apasionado que es dedicado a sacrificar todo para conseguir sus metas. Ningún evento o situación parece sorprendente para el, todo lo contrario, parece que el profesor siempre tiene razones porque la situación actual es así y no diferente.
+
 *	**Alex, el ayudante de Lindenbrock** <br>Alex es un hombre joven que sirve como ayudante a Lindenbrock, y quien en comparación con el, es menos valiente y obsesionado con la idea de llegar al centro de la tierra. El es leal al profesor y como narrador de la historia el personaje más accesible al lector.
 
 * **Hans - el guia** <br>Es un guía quien fue contratado en Islandia y se puede resumir como un pesaje con mucho valor, disciplina y capacidad de resistencia, pero sin intenciones propias, ni reflexiones. A veces parece como un salvaje noble con falta completa de ideas y opciones propias.
